@@ -1,0 +1,7 @@
+bookid,username,opentime,closetime,hotspotName,hotspotType,clickResult,clickTime,remarks,hs_name
+0,16,2020-10-26 20:17:53,2020-10-26 20:20:48,p1_quote_button_ladybug,quotes,,2020-10-26 20:20:02,\N,p1
+0,16,2020-10-26 20:20:48,2020-10-26 20:23:11,p1_quote_button_oakleaf,quotes,,2020-10-26 20:21:49,\N,p1
+0,16,2020-10-26 20:23:11,\N,,quotes,,2020-10-26 20:23:41,\N,p1
+1,21,2020-10-31 16:11:00,\N,p1_nextButton,,,2020-10-31 16:11:43,\N,p1
+0,241,2021-01-16 10:08:59,\N,p1_nextButton,next_button,,,\N,p1
+0,263,2021-02-20 20:01:45,2021-02-20 20:26:43,p10_quote_button_mama,quotes,,2021-02-20 20:14:43,\N,p10
